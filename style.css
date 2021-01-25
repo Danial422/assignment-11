@@ -1,0 +1,220 @@
+#new{
+    text-align: center;
+}
+#ssd{
+    margin-top: 0px;
+}
+#head{
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+#desc{
+    margin-right: 150px;
+}
+#title{
+    margin-right: 150px;
+    margin-bottom: 2px;
+}
+#TITLE{
+    width: 280px;
+    margin-left: 150px;
+}
+#date{
+    margin-right: 150px;
+    margin-bottom: 2px;
+}
+#DATE{
+    width: 280px;
+    margin-left: 150px;
+}
+#description{
+    margin-top: 50px;
+    margin-right: 120px;
+    margin-bottom: 2px;
+}
+#DESCRIPTION{
+    width: 300px;
+    padding-bottom: 200px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+#button{
+    margin-left: 260px;
+}
+#color{
+     font-size: 20px;
+     font-style: oblique;
+     background-color: rgb(231, 38, 38);
+     color: blue;
+}
+#color:hover{
+    background-color: rgb(243, 130, 130);
+    color: cornsilk;
+
+}
+/* action center*/
+#th{
+    border-top: solid rgb(52, 68, 102);
+     border-bottom: solid rgb(52, 68, 102);
+     margin-left: 20px;
+     margin-top: 10px;
+     background-color: blue;
+}
+#thh{
+    margin-left: 20px;
+}
+#th-1{
+    padding-left: 50px;
+    padding-right: 40px;
+    font-size: 20px;
+    width: 70px;
+    border-right:solid rgb(82, 78, 78);
+    border-left:solid rgb(82, 78, 78);
+
+}
+#th-2{
+    font-size: 20px;
+    width: 150px;
+    border-right:solid rgb(82, 78, 78);
+}
+#th-3{
+    font-size: 20px;
+    width: 150px;
+    padding-left: 10px;
+    background-color: cyan;
+}
+#th-4{
+    font-size: 20px;
+    width: 150px;
+    padding-left: 10px;
+    background-color: cyan;
+}
+#th-5{
+    font-size: 20px;
+    padding-left: 10px;
+    background-color: cyan;
+    width: 140px;
+}
+#th-6{
+    width: 150px;
+    padding-left: 5px;
+}
+#del{
+    color: rgb(243, 188, 188);
+    font-weight: bolder;
+    font-size: large;
+    width: 150px;
+    background-color: crimson;
+}
+#del:hover{
+    background-color: rgb(247, 100, 129);
+}
+@media screen and (max-width: 500px){
+    #ssd{
+        margin-top: 0px;
+        margin-left: 50px;
+    }
+    #head{
+        margin-top: 0px;
+        margin-bottom: 30px;
+        margin-left: 50px;
+    }
+    #desc{
+        margin-right: 150px;
+    }
+    #title{
+        margin-right: 150px;
+        margin-bottom: 2px;
+    }
+    #TITLE{
+        width: 280px;
+        margin-left: 30px;
+    }
+    #date{
+        margin-right: 150px;
+        margin-bottom: 2px;
+    }
+    #DATE{
+        width: 280px;
+        margin-left: 30px;
+    }
+    #description{
+        margin-top: 50px;
+        margin-right: 120px;
+        margin-bottom: 2px;
+    }
+    #DESCRIPTION{
+        width: 300px;
+        padding-bottom: 200px;
+        margin-left: 40px;
+        margin-bottom: 20px;
+    }
+    #button{
+        margin-left: 60px;
+    }
+    #color{
+         font-size: 20px;
+         font-style: oblique;
+         background-color: rgb(231, 38, 38);
+         color: blue;
+    }
+    #color:hover{
+        background-color: rgb(243, 130, 130);
+        color: cornsilk;
+    
+    }
+    /* action center*/
+    #th{
+        border-top: solid rgb(52, 68, 102);
+         border-bottom: solid rgb(52, 68, 102);
+         margin-left: 0px;
+         margin-top: 10px;
+         background-color: blue;
+    }
+    #thh{
+        margin-left: 5px;
+    }
+    #th-1{
+        padding-left: 0px;
+        padding-right: 30px;
+        width: 70px;
+        border-right:solid rgb(82, 78, 78);
+        border-left:solid rgb(82, 78, 78);
+    
+    }
+    #th-2{
+        width: 100px;
+        padding-right: 20px;
+        border-right:solid rgb(82, 78, 78);
+    }
+    #th-3{
+        font-size: 15px;
+        width: 100px;
+        padding-left: 0px;
+        background-color: cyan;
+    }
+    #th-4{
+        font-size: 15px;
+        width: 80px;
+        padding-left: 0px;
+        background-color: cyan;
+    }
+    #th-5{
+        font-size: 20px;
+        padding-left: 10px;
+        background-color: cyan;
+        width: 160px;
+    }
+    #th-6{
+        width: 0px;
+        padding-left: 20px;
+    }
+    #del{
+        color: rgb(243, 188, 188);
+        font-weight: bold;
+        font-size: 10px;
+        width: 80px;
+        background-color: crimson;
+        margin-right: 0px;
+    }
+}
